@@ -1,14 +1,14 @@
 <!-- Add a cute GIF here -->
 ![Cute GIF Placeholder](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NyMzhoZmR5YjhndzF3OXV2aG1zYmE1Ymprdmhka3FrdnVxOHViciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wicMBKqNZlrW/giphy.gif)
 
-# 🌸 Hello, I'm Harshika! 🌸
+# 🌸 Hey there, I'm Harshika! 🌸
 
 ### 👩‍💻 Who Am I?  
 I’m currently a third year student majoring in **Computer Science and Engineering at IIT Jodhpur** 🌟.  
 I’m passionate about **programming**, **web development**, and **machine learning** 🧠. 
 ---
 
-### 🛠 What I Know  
+### 🛠 Skills 
 
 #### 👩‍💻 Programming Languages:  
 ![Python](https://img.shields.io/badge/-Python-FFE4E1?style=for-the-badge&logo=python&logoColor=3776AB)  
