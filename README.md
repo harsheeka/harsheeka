@@ -1,12 +1,8 @@
-<!-- Add a cute GIF here -->
-![Cute GIF Placeholder](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NyMzhoZmR5YjhndzF3OXV2aG1zYmE1Ymprdmhka3FrdnVxOHViciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wicMBKqNZlrW/giphy.gif)
+# Hey there!
 
-# 🌸Hey there!🌸
-
-I’m Harshika, currently a third year student majoring in **Computer Science and Engineering at IIT Jodhpur** 🌟.  
-I’m passionate about **programming**, **web development**, and **machine learning** 🧠. 
+I’m Harshika Arya, a pre final year student majoring in **Computer Science and Engineering at IIT Jodhpur**.  
+I’m passionate about **programming**, **web development**, and **machine learning**. 
 ---
-
 ### 🛠 My Skills 
 
 #### 👩‍💻 Programming Languages:  
@@ -21,32 +17,14 @@ I’m passionate about **programming**, **web development**, and **machine learn
 #### 🔍 Machine Learning:  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-FFEFD5?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) ![Pandas](https://img.shields.io/badge/-Pandas-E0FFFF?style=for-the-badge&logo=pandas&logoColor=150458)
 
-
 ---
 
-### 🎯 Current Focus:  
-- 🌟 Learning **Web Development**  
-- 🛠 Building **creative projects**  
-- 🚀 Exploring **full-stack development**
-
----
-
-### 🌸 Fun Facts About Me  
-- I love **cats**🐱💕  
+### Fun Facts About Me  
+- I love **cats**🐱  
 - I'm an **artist** 🎨 and enjoy infusing creativity into coding.  
-- I am an extrovert and always up for **learning new things** 🌟  
-- A huge fan of **reading books** 📚💖  
+- I am an extrovert and always up for **learning new things**  
+- A huge fan of **reading books** 
 
----
-
-### 💌 Let’s Connect!  
-- 🌐 **GitHub**: [harsheeka](https://github.com/harsheeka)  
-- 💼 **LinkedIn**: [harshikaarya](https://linkedin.com/in/harshikaarya)  
-- 📧 **Email**: [harshikaarya35@gmail.com](mailto:harshikaarya35@gmail.com)  
-
----
-
-💖 *“Code with passion, create with love.”* 💖
 
 <!--
 **harsheeka/harsheeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
