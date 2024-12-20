@@ -6,12 +6,12 @@
 
 ---
 
-### My Tech Stack  
-- **Languages**: C++, Python, JavaScript, Verilog  
-- **Backend**: Node.js, MySQL  
-- **Frontend**: HTML, CSS, React.js  
-- **Tools**: Vivado, PYNQ, Logisim  
-- **Other Skills**: Machine Learning (Scikit-Learn, Pandas, NumPy)  
+### Technical Skills  
+- **Programming Languages**: C, C++, Python, JavaScript  
+- **Web Development**: HTML, CSS, Tailwind CSS, React.js, Node.js, MySQL, Testing  
+- **Tools and Frameworks**: Git (Version Control), Jupyter Notebooks, LibROSA  
+- **Machine Learning**: Numpy, Neural Networks, Pandas, Scikit-Learn, Matplotlib
+
 
 ---
 ### Fun Facts About Me 🎉  
