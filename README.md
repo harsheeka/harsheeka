@@ -1,3 +1,25 @@
-|  |  |
-|---|---|
-| **Heyy! ＼(＾▽＾)／ I’m Harshika Arya** <br><br> Final-year **Computer Science & Engineering** student at **IIT Jodhpur**. <br><br> I’m a **software developer** who loves building beautiful, functional, and intelligent systems 🌈✨ <br><br> My journey across CS has been super diverse — from creating **3D graphics in Unity**, designing intuitive **UI/UX**, crafting **Flutter + React** frontends, to architecting **backend systems** with **Node.js** and **FastAPI**. <br><br> I’ve worked with a wide range of tech: **MySQL**, **MongoDB**, **Neo4j**, cloud platforms like **GCP** & **Azure**, **machine learning**, **LLMs**, and more. <br><br> Also… I’m an artist 🎨 so I naturally gravitate toward having fun with code + creativity 💕 | <img src="https://media.giphy.com/media/k8kITi9SAwe9JWbUaH/giphy.gif" width="250" height="270" alt="Pixel Art Animation"> |
+<div align="center">
+
+## 🌸 Heyy! ＼(＾▽＾)／ I’m **Harshika**
+
+</div>
+<div align="center">
+<img src="https://media.giphy.com/media/k8kITi9SAwe9JWbUaH/giphy.gif" height="230" align="right">
+</div>
+
+I’m a final-year **Computer Science & Engineering** student at **IIT Jodhpur**,  
+and a **software developer** who loves building beautiful, functional, and intelligent systems 🌈✨  
+
+My CS journey has been delightfully diverse —  
+
+- 🎮 Creating **3D graphics in Unity**  
+- 🎨 Designing intuitive **UI/UX**  
+- 🌸 Building frontends in **Flutter** & **React**  
+- ⚙️ Architecting backend systems with **Node.js** & **FastAPI**  
+- 🗄️ Working with **MySQL**, **MongoDB**, **Neo4j** ,**Firebase** 
+- ☁️ Deploying on **GCP** & **Azure**  
+- 🤖 Exploring **Machine Learning** & **LLMs**
+
+And I’m an **artist** too 🎨 — so I naturally gravitate toward blending **code + creativity** in all my work 💕
+
+---
